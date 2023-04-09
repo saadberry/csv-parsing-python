@@ -1,0 +1,1017 @@
+[
+    {
+        "Country Name": "Aruba",
+        "Latest Year": "2019",
+        "PPP factor": "1.5335516651578"
+    },
+    {
+        "Country Name": "Afghanistan",
+        "Latest Year": "2019",
+        "PPP factor": "17.1344642539802"
+    },
+    {
+        "Country Name": "Angola",
+        "Latest Year": "2019",
+        "PPP factor": "144.052274320717"
+    },
+    {
+        "Country Name": "Albania",
+        "Latest Year": "2021",
+        "PPP factor": "53.8599432085028"
+    },
+    {
+        "Country Name": "United Arab Emirates",
+        "Latest Year": "2020",
+        "PPP factor": "2.65739493873402"
+    },
+    {
+        "Country Name": "Argentina",
+        "Latest Year": "2017",
+        "PPP factor": "10.8079395294189"
+    },
+    {
+        "Country Name": "Armenia",
+        "Latest Year": "2021",
+        "PPP factor": "170.75811581848"
+    },
+    {
+        "Country Name": "American Samoa",
+        "Latest Year": "2011",
+        "PPP factor": "0.92116932502225"
+    },
+    {
+        "Country Name": "Antigua and Barbuda",
+        "Latest Year": "2021",
+        "PPP factor": "2.35388328000609"
+    },
+    {
+        "Country Name": "Australia",
+        "Latest Year": "2021",
+        "PPP factor": "1.571184"
+    },
+    {
+        "Country Name": "Austria",
+        "Latest Year": "2021",
+        "PPP factor": "0.810757"
+    },
+    {
+        "Country Name": "Azerbaijan",
+        "Latest Year": "2021",
+        "PPP factor": "0.506611961026926"
+    },
+    {
+        "Country Name": "Burundi",
+        "Latest Year": "2021",
+        "PPP factor": "664.745025491502"
+    },
+    {
+        "Country Name": "Belgium",
+        "Latest Year": "2021",
+        "PPP factor": "0.819757"
+    },
+    {
+        "Country Name": "Benin",
+        "Latest Year": "2021",
+        "PPP factor": "207.950812633461"
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "Latest Year": "2021",
+        "PPP factor": "188.258801521873"
+    },
+    {
+        "Country Name": "Bangladesh",
+        "Latest Year": "2021",
+        "PPP factor": "33.1915964230335"
+    },
+    {
+        "Country Name": "Bulgaria",
+        "Latest Year": "2021",
+        "PPP factor": "0.785687964682336"
+    },
+    {
+        "Country Name": "Bahrain",
+        "Latest Year": "2021",
+        "PPP factor": "0.184850327068308"
+    },
+    {
+        "Country Name": "Bahamas, The",
+        "Latest Year": "2021",
+        "PPP factor": "1.07645428953695"
+    },
+    {
+        "Country Name": "Bosnia and Herzegovina",
+        "Latest Year": "2021",
+        "PPP factor": "0.78895383703875"
+    },
+    {
+        "Country Name": "Belarus",
+        "Latest Year": "2021",
+        "PPP factor": "0.713558094985959"
+    },
+    {
+        "Country Name": "Belize",
+        "Latest Year": "2017",
+        "PPP factor": "1.4770028591156"
+    },
+    {
+        "Country Name": "Bermuda",
+        "Latest Year": "2017",
+        "PPP factor": "1.57566356658936"
+    },
+    {
+        "Country Name": "Bolivia",
+        "Latest Year": "2021",
+        "PPP factor": "2.50236123500264"
+    },
+    {
+        "Country Name": "Brazil",
+        "Latest Year": "2021",
+        "PPP factor": "2.5306765780227"
+    },
+    {
+        "Country Name": "Barbados",
+        "Latest Year": "2019",
+        "PPP factor": "2.45292773070195"
+    },
+    {
+        "Country Name": "Brunei Darussalam",
+        "Latest Year": "2021",
+        "PPP factor": "0.6576427461258"
+    },
+    {
+        "Country Name": "Bhutan",
+        "Latest Year": "2021",
+        "PPP factor": "22.1606901587792"
+    },
+    {
+        "Country Name": "Botswana",
+        "Latest Year": "2021",
+        "PPP factor": "5.25280154588234"
+    },
+    {
+        "Country Name": "Central African Republic",
+        "Latest Year": "2021",
+        "PPP factor": "307.084500172408"
+    },
+    {
+        "Country Name": "Canada",
+        "Latest Year": "2021",
+        "PPP factor": "1.324392"
+    },
+    {
+        "Country Name": "Switzerland",
+        "Latest Year": "2021",
+        "PPP factor": "1.301767"
+    },
+    {
+        "Country Name": "Chile",
+        "Latest Year": "2021",
+        "PPP factor": "477.818028"
+    },
+    {
+        "Country Name": "China",
+        "Latest Year": "2021",
+        "PPP factor": "4.07480147552066"
+    },
+    {
+        "Country Name": "Cote d'Ivoire",
+        "Latest Year": "2021",
+        "PPP factor": "236.558116007821"
+    },
+    {
+        "Country Name": "Cameroon",
+        "Latest Year": "2021",
+        "PPP factor": "232.500319130858"
+    },
+    {
+        "Country Name": "Congo, Dem. Rep.",
+        "Latest Year": "2017",
+        "PPP factor": "630.605529785156"
+    },
+    {
+        "Country Name": "Congo, Rep.",
+        "Latest Year": "2021",
+        "PPP factor": "276.915303194656"
+    },
+    {
+        "Country Name": "Colombia",
+        "Latest Year": "2021",
+        "PPP factor": "1567.446659"
+    },
+    {
+        "Country Name": "Comoros",
+        "Latest Year": "2017",
+        "PPP factor": "213.51823425293"
+    },
+    {
+        "Country Name": "Cabo Verde",
+        "Latest Year": "2021",
+        "PPP factor": "45.1871874899094"
+    },
+    {
+        "Country Name": "Costa Rica",
+        "Latest Year": "2021",
+        "PPP factor": "358.301276"
+    },
+    {
+        "Country Name": "Curacao",
+        "Latest Year": "2019",
+        "PPP factor": "1.4967881215377"
+    },
+    {
+        "Country Name": "Cayman Islands",
+        "Latest Year": "2017",
+        "PPP factor": "1.14961755275726"
+    },
+    {
+        "Country Name": "Cyprus",
+        "Latest Year": "2021",
+        "PPP factor": "0.655438183250121"
+    },
+    {
+        "Country Name": "Czech Republic",
+        "Latest Year": "2021",
+        "PPP factor": "14.767037"
+    },
+    {
+        "Country Name": "Germany",
+        "Latest Year": "2021",
+        "PPP factor": "0.780198"
+    },
+    {
+        "Country Name": "Djibouti",
+        "Latest Year": "2020",
+        "PPP factor": "104.464323977986"
+    },
+    {
+        "Country Name": "Dominica",
+        "Latest Year": "2021",
+        "PPP factor": "1.73611738891068"
+    },
+    {
+        "Country Name": "Denmark",
+        "Latest Year": "2021",
+        "PPP factor": "7.540036"
+    },
+    {
+        "Country Name": "Dominican Republic",
+        "Latest Year": "2021",
+        "PPP factor": "26.1336907552504"
+    },
+    {
+        "Country Name": "Algeria",
+        "Latest Year": "2021",
+        "PPP factor": "40.3505911608748"
+    },
+    {
+        "Country Name": "Ecuador",
+        "Latest Year": "2021",
+        "PPP factor": "0.518839786744093"
+    },
+    {
+        "Country Name": "Egypt, Arab Rep.",
+        "Latest Year": "2021",
+        "PPP factor": "4.26787876292337"
+    },
+    {
+        "Country Name": "Eritrea",
+        "Latest Year": "2017",
+        "PPP factor": "7.58917328565831"
+    },
+    {
+        "Country Name": "Spain",
+        "Latest Year": "2021",
+        "PPP factor": "0.701067"
+    },
+    {
+        "Country Name": "Estonia",
+        "Latest Year": "2021",
+        "PPP factor": "0.625702"
+    },
+    {
+        "Country Name": "Ethiopia",
+        "Latest Year": "2021",
+        "PPP factor": "15.4678380013926"
+    },
+    {
+        "Country Name": "Finland",
+        "Latest Year": "2021",
+        "PPP factor": "0.91263"
+    },
+    {
+        "Country Name": "Fiji",
+        "Latest Year": "2021",
+        "PPP factor": "0.921664699549272"
+    },
+    {
+        "Country Name": "France",
+        "Latest Year": "2021",
+        "PPP factor": "0.813479"
+    },
+    {
+        "Country Name": "Micronesia, Fed. Sts.",
+        "Latest Year": "2020",
+        "PPP factor": "0.961895647334433"
+    },
+    {
+        "Country Name": "Gabon",
+        "Latest Year": "2020",
+        "PPP factor": "328.253057750816"
+    },
+    {
+        "Country Name": "United Kingdom",
+        "Latest Year": "2021",
+        "PPP factor": "0.784009"
+    },
+    {
+        "Country Name": "Georgia",
+        "Latest Year": "2021",
+        "PPP factor": "1.03739531516253"
+    },
+    {
+        "Country Name": "Ghana",
+        "Latest Year": "2021",
+        "PPP factor": "2.21099550456014"
+    },
+    {
+        "Country Name": "Guinea",
+        "Latest Year": "2021",
+        "PPP factor": "4353.05206733545"
+    },
+    {
+        "Country Name": "Gambia, The",
+        "Latest Year": "2021",
+        "PPP factor": "17.7435475431325"
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "Latest Year": "2019",
+        "PPP factor": "224.028595962688"
+    },
+    {
+        "Country Name": "Equatorial Guinea",
+        "Latest Year": "2020",
+        "PPP factor": "309.801378409173"
+    },
+    {
+        "Country Name": "Greece",
+        "Latest Year": "2021",
+        "PPP factor": "0.63123"
+    },
+    {
+        "Country Name": "Grenada",
+        "Latest Year": "2021",
+        "PPP factor": "1.65850212552212"
+    },
+    {
+        "Country Name": "Guatemala",
+        "Latest Year": "2021",
+        "PPP factor": "4.61179127920629"
+    },
+    {
+        "Country Name": "Guam",
+        "Latest Year": "2011",
+        "PPP factor": "1.0848152473971"
+    },
+    {
+        "Country Name": "Guyana",
+        "Latest Year": "2021",
+        "PPP factor": "114.719998817903"
+    },
+    {
+        "Country Name": "Hong Kong SAR, China",
+        "Latest Year": "2021",
+        "PPP factor": "6.05761675955887"
+    },
+    {
+        "Country Name": "Honduras",
+        "Latest Year": "2021",
+        "PPP factor": "11.5430825565649"
+    },
+    {
+        "Country Name": "Croatia",
+        "Latest Year": "2021",
+        "PPP factor": "3.86898938591484"
+    },
+    {
+        "Country Name": "Haiti",
+        "Latest Year": "2021",
+        "PPP factor": "53.8997169933672"
+    },
+    {
+        "Country Name": "Hungary",
+        "Latest Year": "2021",
+        "PPP factor": "173.693389"
+    },
+    {
+        "Country Name": "Indonesia",
+        "Latest Year": "2021",
+        "PPP factor": "5067.26819500802"
+    },
+    {
+        "Country Name": "India",
+        "Latest Year": "2021",
+        "PPP factor": "21.284674244849"
+    },
+    {
+        "Country Name": "Ireland",
+        "Latest Year": "2021",
+        "PPP factor": "1.012353"
+    },
+    {
+        "Country Name": "Iran, Islamic Rep.",
+        "Latest Year": "2020",
+        "PPP factor": "28477.948939254"
+    },
+    {
+        "Country Name": "Iraq",
+        "Latest Year": "2021",
+        "PPP factor": "536.719619288237"
+    },
+    {
+        "Country Name": "Iceland",
+        "Latest Year": "2021",
+        "PPP factor": "162.467692"
+    },
+    {
+        "Country Name": "Israel",
+        "Latest Year": "2021",
+        "PPP factor": "4.208115"
+    },
+    {
+        "Country Name": "Italy",
+        "Latest Year": "2021",
+        "PPP factor": "0.728391"
+    },
+    {
+        "Country Name": "Jamaica",
+        "Latest Year": "2021",
+        "PPP factor": "76.4568787790836"
+    },
+    {
+        "Country Name": "Jordan",
+        "Latest Year": "2021",
+        "PPP factor": "0.31869959554411"
+    },
+    {
+        "Country Name": "Japan",
+        "Latest Year": "2021",
+        "PPP factor": "111.904164"
+    },
+    {
+        "Country Name": "Kazakhstan",
+        "Latest Year": "2020",
+        "PPP factor": "141.309255578894"
+    },
+    {
+        "Country Name": "Kenya",
+        "Latest Year": "2021",
+        "PPP factor": "46.4090003108795"
+    },
+    {
+        "Country Name": "Kyrgyz Republic",
+        "Latest Year": "2021",
+        "PPP factor": "21.4130471849986"
+    },
+    {
+        "Country Name": "Cambodia",
+        "Latest Year": "2021",
+        "PPP factor": "1490.34700677585"
+    },
+    {
+        "Country Name": "Kiribati",
+        "Latest Year": "2015",
+        "PPP factor": "0.991967048084223"
+    },
+    {
+        "Country Name": "St. Kitts and Nevis",
+        "Latest Year": "2021",
+        "PPP factor": "2.27320999811003"
+    },
+    {
+        "Country Name": "Korea, Rep.",
+        "Latest Year": "2021",
+        "PPP factor": "995.388567"
+    },
+    {
+        "Country Name": "Kuwait",
+        "Latest Year": "2021",
+        "PPP factor": "0.181978289896827"
+    },
+    {
+        "Country Name": "Lao PDR",
+        "Latest Year": "2021",
+        "PPP factor": "3259.33166866124"
+    },
+    {
+        "Country Name": "Lebanon",
+        "Latest Year": "2021",
+        "PPP factor": "3546.30415142991"
+    },
+    {
+        "Country Name": "Liberia",
+        "Latest Year": "2018",
+        "PPP factor": "0.513647718912039"
+    },
+    {
+        "Country Name": "Libya",
+        "Latest Year": "2017",
+        "PPP factor": "0.638153358257669"
+    },
+    {
+        "Country Name": "St. Lucia",
+        "Latest Year": "2021",
+        "PPP factor": "1.93936024844047"
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "Latest Year": "2021",
+        "PPP factor": "60.3074841380116"
+    },
+    {
+        "Country Name": "Lesotho",
+        "Latest Year": "2021",
+        "PPP factor": "5.81892700829422"
+    },
+    {
+        "Country Name": "Lithuania",
+        "Latest Year": "2021",
+        "PPP factor": "0.519735"
+    },
+    {
+        "Country Name": "Luxembourg",
+        "Latest Year": "2021",
+        "PPP factor": "0.956422"
+    },
+    {
+        "Country Name": "Latvia",
+        "Latest Year": "2021",
+        "PPP factor": "0.573326"
+    },
+    {
+        "Country Name": "Macao SAR, China",
+        "Latest Year": "2020",
+        "PPP factor": "6.00286551161928"
+    },
+    {
+        "Country Name": "Morocco",
+        "Latest Year": "2021",
+        "PPP factor": "4.04744386136299"
+    },
+    {
+        "Country Name": "Moldova",
+        "Latest Year": "2021",
+        "PPP factor": "6.80268191080185"
+    },
+    {
+        "Country Name": "Madagascar",
+        "Latest Year": "2020",
+        "PPP factor": "1089.91382908145"
+    },
+    {
+        "Country Name": "Maldives",
+        "Latest Year": "2021",
+        "PPP factor": "8.79295712617249"
+    },
+    {
+        "Country Name": "Mexico",
+        "Latest Year": "2021",
+        "PPP factor": "11.08569"
+    },
+    {
+        "Country Name": "Marshall Islands",
+        "Latest Year": "2011",
+        "PPP factor": "1.08341617009286"
+    },
+    {
+        "Country Name": "North Macedonia",
+        "Latest Year": "2021",
+        "PPP factor": "22.9230280128034"
+    },
+    {
+        "Country Name": "Mali",
+        "Latest Year": "2021",
+        "PPP factor": "191.182297877942"
+    },
+    {
+        "Country Name": "Malta",
+        "Latest Year": "2021",
+        "PPP factor": "0.64022658795818"
+    },
+    {
+        "Country Name": "Myanmar",
+        "Latest Year": "2019",
+        "PPP factor": "434.713825972419"
+    },
+    {
+        "Country Name": "Montenegro",
+        "Latest Year": "2021",
+        "PPP factor": "0.432510603247086"
+    },
+    {
+        "Country Name": "Mongolia",
+        "Latest Year": "2021",
+        "PPP factor": "1005.80969245035"
+    },
+    {
+        "Country Name": "Northern Mariana Islands",
+        "Latest Year": "2011",
+        "PPP factor": "1.04667327718325"
+    },
+    {
+        "Country Name": "Mozambique",
+        "Latest Year": "2020",
+        "PPP factor": "22.9399031490422"
+    },
+    {
+        "Country Name": "Mauritania",
+        "Latest Year": "2020",
+        "PPP factor": "12.7220637374371"
+    },
+    {
+        "Country Name": "Mauritius",
+        "Latest Year": "2021",
+        "PPP factor": "18.016938430692"
+    },
+    {
+        "Country Name": "Malawi",
+        "Latest Year": "2020",
+        "PPP factor": "306.029518158003"
+    },
+    {
+        "Country Name": "Malaysia",
+        "Latest Year": "2021",
+        "PPP factor": "1.6072541991461"
+    },
+    {
+        "Country Name": "Namibia",
+        "Latest Year": "2021",
+        "PPP factor": "7.14890740938471"
+    },
+    {
+        "Country Name": "New Caledonia",
+        "Latest Year": "2016",
+        "PPP factor": "127.363836348257"
+    },
+    {
+        "Country Name": "Niger",
+        "Latest Year": "2021",
+        "PPP factor": "237.914232535478"
+    },
+    {
+        "Country Name": "Nigeria",
+        "Latest Year": "2021",
+        "PPP factor": "167.705761975748"
+    },
+    {
+        "Country Name": "Nicaragua",
+        "Latest Year": "2021",
+        "PPP factor": "12.5468729256674"
+    },
+    {
+        "Country Name": "Netherlands",
+        "Latest Year": "2021",
+        "PPP factor": "0.837217"
+    },
+    {
+        "Country Name": "Norway",
+        "Latest Year": "2021",
+        "PPP factor": "10.703529"
+    },
+    {
+        "Country Name": "Nepal",
+        "Latest Year": "2021",
+        "PPP factor": "33.1566816232495"
+    },
+    {
+        "Country Name": "Nauru",
+        "Latest Year": "2011",
+        "PPP factor": "1.20879771681625"
+    },
+    {
+        "Country Name": "New Zealand",
+        "Latest Year": "2021",
+        "PPP factor": "1.658016"
+    },
+    {
+        "Country Name": "Oman",
+        "Latest Year": "2021",
+        "PPP factor": "0.194571816428043"
+    },
+    {
+        "Country Name": "Pakistan",
+        "Latest Year": "2021",
+        "PPP factor": "41.9956801721072"
+    },
+    {
+        "Country Name": "Panama",
+        "Latest Year": "2021",
+        "PPP factor": "0.461695201116801"
+    },
+    {
+        "Country Name": "Peru",
+        "Latest Year": "2021",
+        "PPP factor": "1.89101842403428"
+    },
+    {
+        "Country Name": "Philippines",
+        "Latest Year": "2021",
+        "PPP factor": "20.129116050937"
+    },
+    {
+        "Country Name": "Palau",
+        "Latest Year": "2021",
+        "PPP factor": "0.886731142099977"
+    },
+    {
+        "Country Name": "Papua New Guinea",
+        "Latest Year": "2021",
+        "PPP factor": "2.90299427835664"
+    },
+    {
+        "Country Name": "Poland",
+        "Latest Year": "2021",
+        "PPP factor": "1.970804"
+    },
+    {
+        "Country Name": "Puerto Rico",
+        "Latest Year": "2017",
+        "PPP factor": "0.976900546254226"
+    },
+    {
+        "Country Name": "Portugal",
+        "Latest Year": "2021",
+        "PPP factor": "0.646008"
+    },
+    {
+        "Country Name": "Paraguay",
+        "Latest Year": "2021",
+        "PPP factor": "2617.89538807224"
+    },
+    {
+        "Country Name": "West Bank and Gaza",
+        "Latest Year": "2021",
+        "PPP factor": "0.589548610486916"
+    },
+    {
+        "Country Name": "French Polynesia",
+        "Latest Year": "2011",
+        "PPP factor": "119.592991819956"
+    },
+    {
+        "Country Name": "Qatar",
+        "Latest Year": "2021",
+        "PPP factor": "2.5983746594114"
+    },
+    {
+        "Country Name": "Romania",
+        "Latest Year": "2021",
+        "PPP factor": "1.97238459259687"
+    },
+    {
+        "Country Name": "Russian Federation",
+        "Latest Year": "2021",
+        "PPP factor": "27.174384"
+    },
+    {
+        "Country Name": "Rwanda",
+        "Latest Year": "2021",
+        "PPP factor": "299.512576366769"
+    },
+    {
+        "Country Name": "Saudi Arabia",
+        "Latest Year": "2021",
+        "PPP factor": "1.66752308648172"
+    },
+    {
+        "Country Name": "Sudan",
+        "Latest Year": "2021",
+        "PPP factor": "144.934899019625"
+    },
+    {
+        "Country Name": "Senegal",
+        "Latest Year": "2020",
+        "PPP factor": "236.874359231774"
+    },
+    {
+        "Country Name": "Singapore",
+        "Latest Year": "2021",
+        "PPP factor": "1.00816192204861"
+    },
+    {
+        "Country Name": "Solomon Islands",
+        "Latest Year": "2021",
+        "PPP factor": "7.54679768157056"
+    },
+    {
+        "Country Name": "Sierra Leone",
+        "Latest Year": "2021",
+        "PPP factor": "3255.2618882513"
+    },
+    {
+        "Country Name": "El Salvador",
+        "Latest Year": "2021",
+        "PPP factor": "0.485830948404006"
+    },
+    {
+        "Country Name": "Somalia",
+        "Latest Year": "2017",
+        "PPP factor": "7861.36024301041"
+    },
+    {
+        "Country Name": "Serbia",
+        "Latest Year": "2021",
+        "PPP factor": "50.880051444715"
+    },
+    {
+        "Country Name": "South Sudan",
+        "Latest Year": "2015",
+        "PPP factor": "2.87371952729229"
+    },
+    {
+        "Country Name": "Sao Tome and Principe",
+        "Latest Year": "2018",
+        "PPP factor": "11.3256267394591"
+    },
+    {
+        "Country Name": "Suriname",
+        "Latest Year": "2021",
+        "PPP factor": "6.35995748620171"
+    },
+    {
+        "Country Name": "Slovak Republic",
+        "Latest Year": "2021",
+        "PPP factor": "0.648454"
+    },
+    {
+        "Country Name": "Slovenia",
+        "Latest Year": "2021",
+        "PPP factor": "0.637478"
+    },
+    {
+        "Country Name": "Sweden",
+        "Latest Year": "2021",
+        "PPP factor": "9.379059"
+    },
+    {
+        "Country Name": "Eswatini",
+        "Latest Year": "2019",
+        "PPP factor": "6.30772163678543"
+    },
+    {
+        "Country Name": "Sint Maarten (Dutch part)",
+        "Latest Year": "2017",
+        "PPP factor": "1.48829257488251"
+    },
+    {
+        "Country Name": "Seychelles",
+        "Latest Year": "2020",
+        "PPP factor": "9.79917429696076"
+    },
+    {
+        "Country Name": "Turks and Caicos Islands",
+        "Latest Year": "2017",
+        "PPP factor": "1.24590182304382"
+    },
+    {
+        "Country Name": "Chad",
+        "Latest Year": "2021",
+        "PPP factor": "230.113150580309"
+    },
+    {
+        "Country Name": "Togo",
+        "Latest Year": "2020",
+        "PPP factor": "241.673023418625"
+    },
+    {
+        "Country Name": "Thailand",
+        "Latest Year": "2021",
+        "PPP factor": "12.2792018953224"
+    },
+    {
+        "Country Name": "Tajikistan",
+        "Latest Year": "2017",
+        "PPP factor": "2.59482836723328"
+    },
+    {
+        "Country Name": "Turkmenistan",
+        "Latest Year": "2017",
+        "PPP factor": "1.66304105729049"
+    },
+    {
+        "Country Name": "Timor-Leste",
+        "Latest Year": "2019",
+        "PPP factor": "0.418972112831125"
+    },
+    {
+        "Country Name": "Tonga",
+        "Latest Year": "2020",
+        "PPP factor": "1.71865347956392"
+    },
+    {
+        "Country Name": "Trinidad and Tobago",
+        "Latest Year": "2020",
+        "PPP factor": "4.09405795990709"
+    },
+    {
+        "Country Name": "Tunisia",
+        "Latest Year": "2021",
+        "PPP factor": "0.858631020404954"
+    },
+    {
+        "Country Name": "Turkiye",
+        "Latest Year": "2021",
+        "PPP factor": "3.050426"
+    },
+    {
+        "Country Name": "Tuvalu",
+        "Latest Year": "2011",
+        "PPP factor": "1.17277084101687"
+    },
+    {
+        "Country Name": "Tanzania",
+        "Latest Year": "2020",
+        "PPP factor": "790.480551019142"
+    },
+    {
+        "Country Name": "Uganda",
+        "Latest Year": "2020",
+        "PPP factor": "1267.21295269912"
+    },
+    {
+        "Country Name": "Ukraine",
+        "Latest Year": "2020",
+        "PPP factor": "8.15942095173955"
+    },
+    {
+        "Country Name": "Uruguay",
+        "Latest Year": "2021",
+        "PPP factor": "30.8663561037932"
+    },
+    {
+        "Country Name": "United States",
+        "Latest Year": "2021",
+        "PPP factor": "1"
+    },
+    {
+        "Country Name": "Uzbekistan",
+        "Latest Year": "2017",
+        "PPP factor": "1521.47524204932"
+    },
+    {
+        "Country Name": "St. Vincent and the Grenadines",
+        "Latest Year": "2021",
+        "PPP factor": "1.70349260070471"
+    },
+    {
+        "Country Name": "Venezuela, RB",
+        "Latest Year": "2011",
+        "PPP factor": "2.94362664222717"
+    },
+    {
+        "Country Name": "British Virgin Islands",
+        "Latest Year": "2017",
+        "PPP factor": "1.0959233045578"
+    },
+    {
+        "Country Name": "Vietnam",
+        "Latest Year": "2021",
+        "PPP factor": "7901.71116911634"
+    },
+    {
+        "Country Name": "Vanuatu",
+        "Latest Year": "2021",
+        "PPP factor": "120.351577159733"
+    },
+    {
+        "Country Name": "Samoa",
+        "Latest Year": "2021",
+        "PPP factor": "1.7888473170374"
+    },
+    {
+        "Country Name": "Kosovo",
+        "Latest Year": "2021",
+        "PPP factor": "0.346576160920719"
+    },
+    {
+        "Country Name": "Yemen, Rep.",
+        "Latest Year": "2013",
+        "PPP factor": "90.3601684570313"
+    },
+    {
+        "Country Name": "South Africa",
+        "Latest Year": "2021",
+        "PPP factor": "6.96115254220364"
+    },
+    {
+        "Country Name": "Zambia",
+        "Latest Year": "2021",
+        "PPP factor": "6.33089380011233"
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "Latest Year": "2017",
+        "PPP factor": "0.607933570593595"
+    }
+]
